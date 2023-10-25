@@ -4,9 +4,11 @@
 
 - 📫 How to reach me **KamyarGanjian@gmail.com**
 
-<div> <a href="https://github.com/KamyarGanjian" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href = "mailto:KamyarGanjian@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<div> 
+  <h3 align="left">Connect with me:</h3>
+<p align="left">
 <a href="https://linkedin.com/in/kamyar-ganjian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kamyar-ganjian" height="30" width="40" /></a>
+</p>
 </div><h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>

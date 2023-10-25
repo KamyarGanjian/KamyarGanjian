@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kamyar Ganjian</h1>
 
-<p>I'm Kamyar from Iran, and I'm currently learning how to become a greate programmer and I really enjoy it...</p>
+<p>I'm Kamyar from Iran, & I'm currently learning how to become a greate programmer & I really enjoy it...</p>
 
 - 📫 How to reach me **KamyarGanjian@gmail.com**
 

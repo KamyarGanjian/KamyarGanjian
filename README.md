@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamyarganjian&label=Profile%20views&color=0e75b6&style=flat" alt="kamyarganjian" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kamyarganjian" alt="kamyarganjian" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 📫 How to reach me **kamyarganjian@gmail.com**
@@ -20,5 +18,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kamyarganjian&show_icons=true&locale=en&layout=compact" alt="kamyarganjian" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kamyarganjian&show_icons=true&locale=en" alt="kamyarganjian" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kamyarganjian&" alt="kamyarganjian" /></p>

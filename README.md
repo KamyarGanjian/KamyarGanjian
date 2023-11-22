@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Kamyar Ganjian</h1>
-<h3 align="center">I'm currently learning how to become a great programmer & I really enjoy it...</h3>
+<h3 align="center">I'm a junior front-end web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamyarganjian&label=Profile%20views&color=0e75b6&style=flat" alt="kamyarganjian" /> </p>
 

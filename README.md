@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋 , I'm Kamyar Ganjian</h1>
 <h3 align="left">I'm a Front End Developer</h3>
 <br/>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamyarganjian&label=Profile%20views&color=0e75b6&style=flat" alt="kamyarganjian" /> </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
